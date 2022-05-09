@@ -5,6 +5,8 @@
 
 Translate millions of captions to hundred of languages efficiently
 
+WIP, not ready for show time
+
 ## Install
 
 pip install distributed_translator
