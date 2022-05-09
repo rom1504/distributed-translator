@@ -1,3 +1,3 @@
-"""python_template"""
+"""distributed_translator"""
 
-from python_template.main import hello_world
+from distributed_translator.main import hello_world

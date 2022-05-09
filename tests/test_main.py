@@ -1,5 +1,5 @@
 import pytest
-from python_template import hello_world
+from distributed_translator import hello_world
 
 
 @pytest.mark.parametrize("message", ["hello", "world"])

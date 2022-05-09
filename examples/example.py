@@ -1,3 +1,3 @@
-from python_template import hello_world
+from distributed_translator import hello_world
 
 hello_world("hi")
